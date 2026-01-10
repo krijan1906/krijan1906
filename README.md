@@ -30,7 +30,7 @@ Mindset: Learn • Build • Improve • Repeat
 * 🎓 Passionate **IT student**
 * 💻 Intermediate **Full-Stack Web Developer**
 * 🌐 Love crafting **interactive & responsive web apps**
-* 🎨 Strong interest in **UI/UX & functionality**
+* 🎨 Interested in **UI/UX & functionality**
 * 🚀 Turning ideas into working products
 
 ---
@@ -76,25 +76,9 @@ Mindset: Learn • Build • Improve • Repeat
 
 ## 🤝 Open for Collaboration
 
-✅ Open-Source Projects
-✅ Full-Stack Web Apps
-✅ Django + React Projects
-
----
-
-## 📈 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krijan1906&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krijan1906&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krijan1906&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
+* 🌍 Open-Source Projects
+* 💻 Full-Stack Web Applications
+* ⚡ Django + React Projects
 
 ---
 
@@ -102,13 +86,13 @@ Mindset: Learn • Build • Improve • Repeat
 
 <p align="center">
   <a href="mailto:krijanmaharjan31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-krijanmaharjan31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/krijan-maharjan-06a086317/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Krijan%20Maharjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.krijanmaharjan.name.np/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
