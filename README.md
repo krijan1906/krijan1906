@@ -64,13 +64,9 @@ Mindset : Learn • Build • Improve • Repeat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krijan1906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krijan1906&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=krijan1906&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krijan1906&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-</p>
 
 ---
 
@@ -126,9 +122,9 @@ Mindset : Learn • Build • Improve • Repeat
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=C9A84C&center=true&vCenter=true&width=750&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+not+just+syntax+%E2%80%94+it%27s+art.%22;%22Every+expert+was+once+a+beginner.%22;%22Build+it.+Break+it.+Fix+it.+Repeat.%22;%22Your+only+limit+is+your+mind.+%F0%9F%9A%80%22"/>
 </p>
-
 ---
 
 <!-- 🌀 Animated Footer -->
